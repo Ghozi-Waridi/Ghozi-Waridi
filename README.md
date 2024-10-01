@@ -20,6 +20,6 @@
 - [LinkedIn](Link)
 
 ## 📫 Contact Me:
-Feel free to reach out for collaborations or any interesting project opportunities!
+
 
 

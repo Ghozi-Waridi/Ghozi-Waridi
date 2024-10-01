@@ -9,7 +9,7 @@
 ## 📚 Learning & Development:
 => **BlockChain**
   - HardHat
-  - web3.js
+  - web3.js \n
 => **Mechine Learning**
   - Neural Network
   - Tensorflow

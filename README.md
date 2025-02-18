@@ -1,22 +1,31 @@
-# Hi 👋, I'm Ahmad Ghozi Waridi
+<h4 align="center">I am currently studying at Universitas Islam Negeri Maulana Malik Ibrahim Malang, pursuing a Master's degree in Informatics (Fast Track). My primary focus is on Mobile Programming, especially Flutter Programming, Firebase.</h4>
 
-I am currently studying at Universitas Islam Negeri Maulana Malik Ibrahim Malang. My primary focus is on Mobile programing, especially Flutter Programing, Firebase.
+- 🌱 I’m currently learning **Deep Learning** and interning at **Venturo Indonesia**.
 
-🌱 I’m currently learning Deep Learning and interning at venturo indonesia.
+- 📫 How to reach me: [ghoziwaridi@gmail.com](mailto:ghoziwaridi@gmail.com)
 
-📫 How to reach me: [ghoziwaridi@gmail.com](mailto:ghoziwaridi@gmail.com)
-
-📄 Know about my experiences: [LinkedIn Profile](https://www.linkedin.com/in/)
+- 📄 Know about my experiences: [LinkedIn Profile](https://www.linkedin.com/in/)
 
 ---
 
-## Languages and Tools:
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-FFD43B?style=flat&logo=jupyter&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-
+<h4 align="left">Languages and Tools:</h4>
+<p align="left"> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://jupyter.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a> 
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> 
+  </a> 
+  <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> 
+  </a>
+</p>
 
 ---
 

@@ -4,7 +4,7 @@ I am currently studying at Universitas Islam Negeri Maulana Malik Ibrahim Malang
 
 🌱 I’m currently learning Deep Learning and interning at venturo indonesia.
 
-📫 How to reach me: [glnrmdan@gmail.com](mailto:ghoziwaridi@gmail.com)
+📫 How to reach me: [ghoziwaridi@gmail.com](mailto:ghoziwaridi@gmail.com)
 
 📄 Know about my experiences: [LinkedIn Profile](https://www.linkedin.com/in/)
 

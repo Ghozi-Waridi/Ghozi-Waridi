@@ -1,8 +1,8 @@
 <div align="center">
 
-# AHMAD GHOZI WARIDI
+# 👋 Hi there! I'm Ahmad Ghozi Waridi
 
-### Mobile Developer & Data Scientist Enthusiast
+### Mobile Enthusiast & Data Scientist Enthusiast
 
 <p>
   <a href="https://www.linkedin.com/in/ahmad-ghozi-waridi-a28a48284" target="_blank">
@@ -18,7 +18,6 @@
 
 </div>
 
-## 👋 Hi there! I'm Ahmad Ghozi Waridi
 
 I'm a Data Science Enthusiast and Mobile Developer currently studying at UIN Maulana Malik Ibrahim Malang. As a student pursuing a degree in Informatic Engineering, I have developed a strong interest in Data Science, Machine Learning, and Mobile Development. I believe in the power of technology to solve real-world problems, and I am eager to apply cutting-edge technologies like Neural Networks, Deep Learning, and Mobile App Development. Additionally, I aspire to become a researcher in these fields, focusing on exploring new methodologies and contributing to advancements in AI and Mobile Computing to address complex challenges.
 
@@ -32,7 +31,7 @@ I'm a Data Science Enthusiast and Mobile Developer currently studying at UIN Mau
 <summary><b>Front-End Ecosystem</b></summary>
 <br>
 <p>
-
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -101,46 +100,29 @@ I'm a Data Science Enthusiast and Mobile Developer currently studying at UIN Mau
 
 <br>
 
-## 🏆 Featured Projects
+### Want to know more about me? Let's get connect, learn and grow up together!
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 AI Brain Tumor Predict</h3>
-      <p>An application developed to fulfill the requirements of the Artificial Intelligence course assignment.</p>
-      <p><b>Key Features:</b></p>
-      <ul>
-        <li>Built a custom CNN model with Adam optimization.</li>
-        <li>Implemented batch normalization to improve model performance.</li>
-        <li>Achieved 73% accuracy without using external libraries.</li>
-      </ul>
-      <p><b>Tech Stack:</b> Python, HTML, CSS, JS, Flask</p>
-      <p>
-        <a href="#">
-          <img src="https://img.shields.io/badge/Source_Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-## 📞 Let's Build Something Amazing
-
-I'm always open to discussing new projects, innovative ideas, or opportunities to be part of your vision. Feel free to reach out to me through any of the channels below:
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ahmad-ghozi-waridi-a28a48284">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+ 
+</div>
+
+**<h3 align="left">Connect with me:</h3>** 
+<p align="left">
+
+ <a href="https://www.linkedin.com/in/ahmad-ghozi-waridi-a28a48284">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"    height="30" style="margin-right: 4px" alt="LinkedIn">
   </a>
   <a href="ghoziwaridi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail" alt="Email">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail"  height="30" style="margin-right: 4px" alt="Email">
   </a>
   <a href="https://github.com/Ghozi-Waridi">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"   height="30" style="margin-right: 4px" alt="GitHub">
   </a>
-</div>
+  <a href="https://www.instagram.com/a.ghozi_waridi/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" style="margin-right: 4px">
+  </a>
+</p>
 
 <br>
 

@@ -87,20 +87,9 @@ I'm a Data Science Enthusiast and Mobile Developer currently studying at UIN Mau
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghozi-Waridi&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ghozi-Waridi&show_icons=true&theme=dark&count_private=true&hide_border=true" 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghozi-Waridi&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />alt="GitHub Stats" />
 </div>
-
-<br>
-
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Ghozi-Waridi&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="GitHub Stats" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghozi-Waridi&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
 
 <br>
 
@@ -109,34 +98,15 @@ I'm a Data Science Enthusiast and Mobile Developer currently studying at UIN Mau
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 AI Predictive Analytics Platform</h3>
-      <p>Enterprise-grade application that leverages machine learning to provide predictive insights and business intelligence.</p>
+      <h3>🤖 AI Brain Tumor Predict</h3>
+      <p>An application developed to fulfill the requirements of the Artificial Intelligence course assignment.</p>
       <p><b>Key Features:</b></p>
       <ul>
-        <li>Real-time data processing & visualization</li>
-        <li>Custom ML model deployment pipeline</li>
-        <li>Interactive dashboards with drill-down capabilities</li>
+        <li>Built a custom CNN model with Adam optimization.</li>
+        <li>Implemented batch normalization to improve model performance.</li>
+        <li>Achieved 73% accuracy without using external libraries.</li>
       </ul>
-      <p><b>Tech Stack:</b> Laravel, Vue.js, TensorFlow, PostgreSQL, Docker</p>
-      <p>
-        <a href="#">
-          <img src="https://img.shields.io/badge/View_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Demo" />
-        </a>
-        <a href="#">
-          <img src="https://img.shields.io/badge/Source_Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌐 E-Commerce Microservices Architecture</h3>
-      <p>Scalable e-commerce platform built with microservices architecture, handling thousands of transactions daily.</p>
-      <p><b>Key Features:</b></p>
-      <ul>
-        <li>Real-time inventory & order management</li>
-        <li>AI-powered product recommendations</li>
-        <li>Advanced analytics dashboard</li>
-      </ul>
-      <p><b>Tech Stack:</b> Node.js, Vue.js, MongoDB, Docker, AWS</p>
+      <p><b>Tech Stack:</b> Python, HTML, CSS, JS, Flask</p>
       <p>
         <a href="#">
           <img src="https://img.shields.io/badge/View_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Demo" />
@@ -156,10 +126,10 @@ I'm a Data Science Enthusiast and Mobile Developer currently studying at UIN Mau
 I'm always open to discussing new projects, innovative ideas, or opportunities to be part of your vision. Feel free to reach out to me through any of the channels below:
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ridho-aulia-rahman-68a9a6247">
+  <a href="https://www.linkedin.com/in/ahmad-ghozi-waridi-a28a48284">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="mailto:ridho.aulia133@gmail.com">
+  <a href="ghoziwaridi@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail" alt="Email">
   </a>
   <a href="https://github.com/Ghozi-Waridi">

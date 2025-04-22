@@ -85,16 +85,16 @@ As a student pursuing a degree in Informatic Enggineering I have developed a str
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EngRidhoNet&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghozi-Waridi=solarized" alt="GitHub Streak" />
 </div>
 
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=EngRidhoNet&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Ghozi-Waridi&show_icons=true&theme=solarized&count_private=true&hide_border=true" alt="GitHub Stats" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngRidhoNet&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghozi-Waridi&layout=compact&theme=solarized&hide_border=true&langs_count=6" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -155,7 +155,7 @@ I'm always open to discussing new projects, innovative ideas, or opportunities t
   <a href="mailto:ridho.aulia133@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail" alt="Email">
   </a>
-  <a href="https://github.com/EngRidhoNet">
+  <a href="https://github.com/Ghozi-Waridi">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
 </div>
@@ -164,5 +164,5 @@ I'm always open to discussing new projects, innovative ideas, or opportunities t
 
 <div align="center">
   <p>⚡ <i>Code passionately. Build purposefully. Deploy confidently.</i> ⚡</p>
-  <img src="https://komarev.com/ghpvc/?username=EngRidhoNet&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=Ghozi-Waridi&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views">
 </div>

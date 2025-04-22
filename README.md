@@ -85,19 +85,20 @@ As a student pursuing a degree in Informatic Enggineering I have developed a str
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghozi-Waridi=solarized" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghozi-Waridi&theme=dark" alt="GitHub Streak" />
 </div>
 
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Ghozi-Waridi&show_icons=true&theme=solarized&count_private=true&hide_border=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Ghozi-Waridi&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="GitHub Stats" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghozi-Waridi&layout=compact&theme=solarized&hide_border=true&langs_count=6" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghozi-Waridi&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
     </td>
   </tr>
 </table>
+
 
 ## 🏆 Featured Projects
 

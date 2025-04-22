@@ -74,7 +74,6 @@ I'm a Data Science Enthusiast and Mobile Developer currently studying at UIN Mau
 <summary><b>DevOps & Tooling</b></summary>
 <br>
 <p>
-
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
@@ -87,9 +86,18 @@ I'm a Data Science Enthusiast and Mobile Developer currently studying at UIN Mau
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghozi-Waridi&theme=dark" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Ghozi-Waridi&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghozi-Waridi&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
+
 </div>
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=Ghozi-Waridi&show_icons=true&theme=dark&count_private=true&hide_border=false" alt="GitHub Stats" />
+
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghozi-Waridi&layout=compact&theme=dark&hide_border=false&langs_count=6" alt="Top Languages" />
+
+
+</div>
+
 
 <br>
 

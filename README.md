@@ -31,7 +31,7 @@ I'm a Data Science Enthusiast and Mobile Developer currently studying at UIN Mau
 <summary><b>Front-End Ecosystem</b></summary>
 <br>
 <p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -53,7 +53,7 @@ I'm a Data Science Enthusiast and Mobile Developer currently studying at UIN Mau
 <p>
 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="FireBase" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=firebase&logoColor=white" alt="FireBase" />
 
 </p>
 </details>
@@ -100,12 +100,7 @@ I'm a Data Science Enthusiast and Mobile Developer currently studying at UIN Mau
 
 <br>
 
-### Want to know more about me? Let's get connect, learn and grow up together!
 
-
-<div align="center">
- 
-</div>
 
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left">

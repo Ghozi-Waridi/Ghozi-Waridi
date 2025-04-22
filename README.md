@@ -2,7 +2,7 @@
 
 # AHMAD GHOZI WARIDI
 
-### Mobile Developer & Data Scientist enthusiast
+### Mobile Developer & Data Scientist Enthusiast
 
 <p>
   <a href="https://www.linkedin.com/in/ahmad-ghozi-waridi-a28a48284" target="_blank">
@@ -20,12 +20,11 @@
 
 ## 👋 Hi there! I'm Ahmad Ghozi Waridi
 
-, a Data Science Enthusiast and Mobile Developer currently studying at UIN Maulana Malik Ibrahim Malang.
-
-As a student pursuing a degree in Informatic Enggineering I have developed a strong interest in Data Science, Machine Learning, and Mobile Development. I believe in the power of technology to solve real-world problems, and I am eager to apply cutting-edge technologies like Neural Networks, Deep Learning, and Mobile App Development. Additionally, I aspire to become a researcher in these fields, focusing on exploring new methodologies and contributing to advancements in AI and Mobile Computing to address complex challenges.
+I'm a Data Science Enthusiast and Mobile Developer currently studying at UIN Maulana Malik Ibrahim Malang. As a student pursuing a degree in Informatic Engineering, I have developed a strong interest in Data Science, Machine Learning, and Mobile Development. I believe in the power of technology to solve real-world problems, and I am eager to apply cutting-edge technologies like Neural Networks, Deep Learning, and Mobile App Development. Additionally, I aspire to become a researcher in these fields, focusing on exploring new methodologies and contributing to advancements in AI and Mobile Computing to address complex challenges.
 
 > "If you feel tired of learning, remember that ignorance is far more painful." – Imam Syafi'i
 
+<br>
 
 ## 💻 Tech Stack
 
@@ -82,11 +81,15 @@ As a student pursuing a degree in Informatic Enggineering I have developed a str
 </p>
 </details>
 
+<br>
+
 ## 📈 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghozi-Waridi&theme=dark" alt="GitHub Streak" />
 </div>
+
+<br>
 
 <table>
   <tr>
@@ -99,6 +102,7 @@ As a student pursuing a degree in Informatic Enggineering I have developed a str
   </tr>
 </table>
 
+<br>
 
 ## 🏆 Featured Projects
 
@@ -145,6 +149,8 @@ As a student pursuing a degree in Informatic Enggineering I have developed a str
   </tr>
 </table>
 
+<br>
+
 ## 📞 Let's Build Something Amazing
 
 I'm always open to discussing new projects, innovative ideas, or opportunities to be part of your vision. Feel free to reach out to me through any of the channels below:
@@ -161,9 +167,10 @@ I'm always open to discussing new projects, innovative ideas, or opportunities t
   </a>
 </div>
 
----
+<br>
 
 <div align="center">
   <p>⚡ <i>Code passionately. Build purposefully. Deploy confidently.</i> ⚡</p>
   <img src="https://komarev.com/ghpvc/?username=Ghozi-Waridi&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views">
 </div>
+

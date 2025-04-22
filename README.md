@@ -87,8 +87,8 @@ I'm a Data Science Enthusiast and Mobile Developer currently studying at UIN Mau
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghozi-Waridi&theme=dark" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Ghozi-Waridi&show_icons=true&theme=dark&count_private=true&hide_border=true" 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghozi-Waridi&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ghozi-Waridi&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghozi-Waridi&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
 </div>
 
 <br>
@@ -108,9 +108,6 @@ I'm a Data Science Enthusiast and Mobile Developer currently studying at UIN Mau
       </ul>
       <p><b>Tech Stack:</b> Python, HTML, CSS, JS, Flask</p>
       <p>
-        <a href="#">
-          <img src="https://img.shields.io/badge/View_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Demo" />
-        </a>
         <a href="#">
           <img src="https://img.shields.io/badge/Source_Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
         </a>
@@ -140,7 +137,6 @@ I'm always open to discussing new projects, innovative ideas, or opportunities t
 <br>
 
 <div align="center">
-  <p>⚡ <i>Code passionately. Build purposefully. Deploy confidently.</i> ⚡</p>
   <img src="https://komarev.com/ghpvc/?username=Ghozi-Waridi&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views">
 </div>
 

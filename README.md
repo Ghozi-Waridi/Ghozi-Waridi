@@ -41,8 +41,9 @@ I'm a Data Science Enthusiast and Mobile Developer currently studying at UIN Mau
 <br>
 <p>
 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=firebase&logoColor=white" alt="FireBase" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Firebase-FFCB2B?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+
 
 </p>
 </details>

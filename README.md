@@ -81,10 +81,13 @@ I'm a Data Science Enthusiast and Mobile Developer currently studying at UIN Mau
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghozi-Waridi&theme=dark" alt="GitHub Streak" />
 
 </div>
+<br>
+
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=Ghozi-Waridi&show_icons=true&theme=dark&count_private=true&hide_border=false" alt="GitHub Stats" />
 
 </div>
+<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghozi-Waridi&layout=compact&theme=dark&hide_border=false&langs_count=6" alt="Top Languages" />
 

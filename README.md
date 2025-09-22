@@ -14,7 +14,7 @@ I'm a Data Science Enthusiast and Mobile Developer currently studying at UIN Mau
 <br>
 
 
-**Identitas : **
+## Identitas : 
 
 Name : Ahmad Ghozi Waridi <br>
 NIM : 230605110083 <br>

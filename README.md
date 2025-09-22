@@ -16,9 +16,9 @@ I'm a Data Science Enthusiast and Mobile Developer currently studying at UIN Mau
 
 **Identitas : **
 
-Name : Ahmad Ghozi Waridi
-NIM : 230605110083
-Kelas : Mobile Programing C
+Name : Ahmad Ghozi Waridi </br>
+NIM : 230605110083 </br>
+Kelas : Mobile Programing C </br>
 
 
 💻 Tugas Tugas File Mata Kuliah Mobile Programing:

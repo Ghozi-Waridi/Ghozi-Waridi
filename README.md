@@ -22,6 +22,10 @@ I'm a Data Science Enthusiast and Mobile Developer currently studying at UIN Mau
 |  2 | 01  | -  | Widget Row dan Column | [Modul 02](https://docs.google.com/document/d/1bAyuU6jrKHtkA4Xj5qt7JtetDfKI22JQ/edit?usp=sharing&ouid=104944616880503288967&rtpof=true&sd=true "Modul 02")| [Template laporan](https://docs.google.com/document/d/14G_3LCJchoXCOXp39wCI5Nrz8p6xSRcA/edit?usp=sharing&ouid=102352264123772252738&rtpof=true&sd=true "Laporan Praktikum")|
 |  3 | 02  | -  | Pengaturan Layout Row dan Column di Flutter | [Modul 03](https://drive.google.com/file/d/1gIgl7aoclgOV_NzmygZbeMh5IfxyfyRP/view "Modul 03")| [Template laporan](https://docs.google.com/document/d/19xs8OcjMr4524hp0Ojn1NRt4LokY_xny/edit "Laporan Praktikum")|
 |  4 | 02  | -  | Widget Flexible dan Expanded | [Modul 04](https://drive.google.com/file/d/1mtCScd_vPk-hPPJ-4FVrpd8PFaecZS2z/view "Modul 04")| [Template laporan](https://docs.google.com/document/d/1Y8wTKMnAUx-pfLAlzsNwcM--xrecYrRw/edit?usp=sharing&ouid=102352264123772252738&rtpof=true&sd=true "Laporan Praktikum")|
+|  5 | 03  | -  | Widget SizedBox, Spacer, dan Card | [Modul 05](https://drive.google.com/file/d/1cVl9qzwmJ1fy4ZU1NfBjXaTaYjDmRkBa/view "Modul 05")| [Template laporan](https://docs.google.com/document/d/1BB-_v6NQUQmw1BdtAxd71S0pOfk6OK7_/edit?usp=sharing&ouid=102352264123772252738&rtpof=true&sd=true "Laporan Praktikum")|
+|  6 | 03  | -  | Widget GridView, ListView, GridView.builder, dan ListView.builder | [Modul 06](https://drive.google.com/file/d/1AuNC4Di23vbN-_c1wO1iCDbLTl5g06JU/view "Modul 06")| [Template laporan]([https://docs.google.com/document/d/1Y8wTKMnAUx-pfLAlzsNwcM--xrecYrRw/edit?usp=sharing&ouid=102352264123772252738&rtpof=true&sd=true](https://docs.google.com/document/d/1AXtQzW0bti2RmcsvGHQZXVRJbMf42P8l/edit?usp=sharing&ouid=102352264123772252738&rtpof=true&sd=true) "Laporan Praktikum")|
+
+
 
 
 

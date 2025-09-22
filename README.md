@@ -14,6 +14,13 @@ I'm a Data Science Enthusiast and Mobile Developer currently studying at UIN Mau
 <br>
 
 
+**Identitas : **
+
+Name : Ahmad Ghozi Waridi
+NIM : 230605110083
+Kelas : Mobile Programing C
+
+
 💻 Tugas Tugas File Mata Kuliah Mobile Programing:
 
 | No  | Minggu ke  | Praktikum ke  | Topik  | Modul | Laporan Praktikum |

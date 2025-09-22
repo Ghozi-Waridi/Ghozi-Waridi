@@ -32,6 +32,7 @@ I'm a Data Science Enthusiast and Mobile Developer currently studying at UIN Mau
 
 
 <br>
+
 ## 💻 Tech Stack
 
 <details open>

@@ -1,19 +1,19 @@
 name: Waka Readme
 
 on:
-  workflow_dispatch: # Tombol untuk menjalankan manual
+  workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *' # Menjalankan setiap tengah malam
+    - cron: '0 0 * * *'
 
 jobs:
   update-readme:
     name: Update Readme with WakaTime Stats
     runs-on: ubuntu-latest
+    permissions: # <-- TAMBAHKAN BLOK INI
+      contents: write # <-- DAN BARIS INI
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIMW_API_KET }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          SHOW_OS: "False"
-          SHOW_PROJECTS: "False"
-          SHOW_EDITORS: "False"
+          # ... sisa opsi Anda

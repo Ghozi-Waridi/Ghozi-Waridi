@@ -33,13 +33,7 @@ Kelas : Mobile Programing C <br>
 |  6 | 03  | -  | Widget GridView, ListView, GridView.builder, dan ListView.builder | [Modul 06](https://drive.google.com/file/d/1AuNC4Di23vbN-_c1wO1iCDbLTl5g06JU/view "Modul 06")| [Template laporan](https://docs.google.com/document/d/1AXtQzW0bti2RmcsvGHQZXVRJbMf42P8l/edit "Laporan Praktikum")|
 
 
-<br>
-<br>
-- 🔭 Saat ini saya sedang mengerjakan...
-<br>
-- 🌱 Saat ini saya sedang belajar...
-<br>
-<br>
+
 
 
 

@@ -34,6 +34,10 @@ Kelas : Mobile Programing C <br>
 |  7 | 04  | -  | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route | [Modul 07](https://drive.google.com/file/d/1FL0RlUBs1ge5TwTdgPA2wp605XfkB7oV/view "Modul 07")| [Laporan Praktikum](https://docs.google.com/document/d/1-Ayt1_1HyND0Gn8RHx4y_DGsmwIACX7-/edit?usp=sharing&ouid=102352264123772252738&rtpof=true&sd=true "Laporan Praktikum")|
 |  8 | 04  | -  | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route | [Modul 08](https://drive.google.com/file/d/10KMwv9Al60bD8qIRRBTVpdEmX8r6VcGl/view "Modul 08")| [Laporan Praktikum](https://docs.google.com/document/d/17rPwuTZvhFZ50IcTpft9Qfh9rW89txZa/edit?usp=sharing&ouid=102352264123772252738&rtpof=true&sd=true "Laporan Praktikum")|
 |  9 | 05  | -  | StatefulWidget | [Modul 09](https://drive.google.com/file/d/1hMW8jVZg5sbH-9a0eH6hbaKgkREEBp1W/view "Modul 09")| [Laporan Praktikum](https://docs.google.com/document/d/1HbQRRoQ1ddXzBZzS0Sbxg66mA8-Y7G8U/edit?usp=sharing&ouid=102352264123772252738&rtpof=true&sd=true "Laporan Praktikum")|
+|  10 | 06  | -  | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Modul 10](https://drive.google.com/file/d/1mNyeNX-Kxq4mDLLlsy5vAG86iib2189C/view "Modul 10")| [Laporan Praktikum](https://docs.google.com/document/d/1erqqSPv9UNx7csi8xZJ-GfNkoLHyvsVf/edit?usp=sharing&ouid=102352264123772252738&rtpof=true&sd=true "Laporan Praktikum")|
+|  11 | 07  | -  | Manajemen State dengan GetX | [Modul 11](https://drive.google.com/file/d/18nrQDSmyMYEAAwJPGCxjoEeNe9hIA0Zp/view "Modul 11")| [Laporan Praktikum](https://docs.google.com/document/d/192gElO7DJkv99tjOsOHRChxjBEIDCjQt/edit?usp=sharing&ouid=102352264123772252738&rtpof=true&sd=true "Laporan Praktikum")|
+
+
 
 
 

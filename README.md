@@ -38,16 +38,7 @@ Kelas : Mobile Programing C <br>
 |  11 | 07  | -  | Manajemen State dengan GetX | [Modul 11](https://drive.google.com/file/d/18nrQDSmyMYEAAwJPGCxjoEeNe9hIA0Zp/view "Modul 11")| [Laporan Praktikum](https://docs.google.com/document/d/192gElO7DJkv99tjOsOHRChxjBEIDCjQt/edit?usp=sharing&ouid=102352264123772252738&rtpof=true&sd=true "Laporan Praktikum")|
 |  12 | 08  | -  | Ujien Tengah Semester | [Laporan UTS](https://docs.google.com/document/d/10NI_4t77sH-CtQjYVAkfdg0Lp2RW-vEu/edit?usp=sharing&ouid=102352264123772252738&rtpof=true&sd=true "Laporan UTS")| [Repo Project](https:/github.com/Ghozi-Waridi/ "Repo Project")|
 |  13 | 09  | -  | Akses Lokasi dengan GPS di Flutter | [Modul 12](https://docs.google.com/document/d/1xe6W0jev_hdt1M_PKe4kkOzbMVXuLKVG/edit?usp=sharing&ouid=102352264123772252738&rtpof=true&sd=true "Modul 12")| [Repo Project](https:/github.com/Ghozi-Waridi/ "Repo Project")|
-|  14 | 10  | -  | Ujien Tengah Semester | [Modul 13](https://docs.google.com/document/d/1wMl5tPZ8mAvl40UJqPuZMSYkfZDAwfKZ/edit "Modul 13")| [Repo Project](https:/github.com/Ghozi-Waridi/ "Repo Project")|
-
-
-https://docs.google.com/document/d/1wMl5tPZ8mAvl40UJqPuZMSYkfZDAwfKZ/edit?usp=sharing&ouid=102352264123772252738&rtpof=true&sd=true
-
-
-
-
-
-
+|  14 | 10  | -  | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API | [Modul 13](https://docs.google.com/document/d/1wMl5tPZ8mAvl40UJqPuZMSYkfZDAwfKZ/edit "Modul 13")| [Repo Project](https:/github.com/Ghozi-Waridi/ "Repo Project")|
 
 
 

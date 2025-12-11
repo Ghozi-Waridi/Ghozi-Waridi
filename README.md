@@ -63,8 +63,8 @@ Kelas : Mobile Programing C <br>
 <summary><b>Back-End</b></summary>
 <br>
 <p>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Gin_Framework-0081CB?style=for-the-badge&logo=go&logoColor=white" alt="Gin" />
 </p>
 </details>
 

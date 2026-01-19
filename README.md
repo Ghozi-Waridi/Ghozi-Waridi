@@ -11,36 +11,6 @@ I'm a Data Science Enthusiast and Mobile Developer currently studying at UIN Mau
 
 > "If you feel tired of learning, remember that ignorance is far more painful." – Imam Syafi'i
 
-<br>
-
-
-## Identitas : 
-
-Name : Ahmad Ghozi Waridi <br>
-NIM : 230605110083 <br>
-Kelas : Mobile Programing C <br>
-
-
-💻 Tugas Tugas File Mata Kuliah Mobile Programing:
-
-| No  | Minggu ke  | Praktikum ke  | Topik  | Modul | Repository |
-| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | 
-|  1 | 01  | -  | Pengenalan Mobile Programming dan Setup Lingkungan  | [Modul 01](https://docs.google.com/document/d/1wie0WZLUFwCLTRCIop5fmH-7mAGyVkCN/edit?usp=sharing&ouid=104944616880503288967&rtpof=true&sd=true "Modul 01") | [Repository](https://github.com/Ghozi-Waridi/Mobile_Praktikum/tree/main "Repository") |
-|  2 | 01  | -  | Widget Row dan Column | [Modul 02](https://docs.google.com/document/d/14G_3LCJchoXCOXp39wCI5Nrz8p6xSRcA/edit?usp=sharing&ouid=102352264123772252738&rtpof=true&sd=true "Modul 02")| [Repository](https://github.com/Ghozi-Waridi/Mobile_Praktikum/tree/main "Repository")|
-|  3 | 02  | -  | Pengaturan Layout Row dan Column di Flutter | [Modul 03](https://docs.google.com/document/d/19xs8OcjMr4524hp0Ojn1NRt4LokY_xny/edit "Modul 03")| [Repository](https://github.com/Ghozi-Waridi/Mobile_Praktikum/tree/main/lib/modul_3 "Repository")|
-|  4 | 02  | -  | Widget Flexible dan Expanded | [Modul 04](https://docs.google.com/document/d/1Y8wTKMnAUx-pfLAlzsNwcM--xrecYrRw/edit?usp=sharing&ouid=102352264123772252738&rtpof=true&sd=true "Modul 04")| [Repository](https://github.com/Ghozi-Waridi/Mobile_Praktikum/tree/main/lib/modul_4 "Repository")|
-|  5 | 03  | -  | Widget SizedBox, Spacer, dan Card | [Modul 05](https://docs.google.com/document/d/1BB-_v6NQUQmw1BdtAxd71S0pOfk6OK7_/edit?usp=sharing&ouid=102352264123772252738&rtpof=true&sd=true "Modul 05")| [Repository](https://github.com/Ghozi-Waridi/Mobile_Praktikum/tree/main/lib/modul_5 "Repository")|
-|  6 | 03  | -  | Widget GridView, ListView, GridView.builder, dan ListView.builder | [Modul 06](https://docs.google.com/document/d/1AXtQzW0bti2RmcsvGHQZXVRJbMf42P8l/edit  "Modul 06")| [Repository](https://github.com/Ghozi-Waridi/Mobile_Praktikum/tree/main/lib/modul_6 "Repository")|
-|  7 | 04  | -  | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route | [Modul 07](https://docs.google.com/document/d/1-Ayt1_1HyND0Gn8RHx4y_DGsmwIACX7-/edit?usp=sharing&ouid=102352264123772252738&rtpof=true&sd=true "Modul 07")| [Repository](https://github.com/Ghozi-Waridi/Mobile_Praktikum/tree/main/lib/modul_7 "Repository")|
-|  8 | 04  | -  | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route | [Modul 08](https://docs.google.com/document/d/17rPwuTZvhFZ50IcTpft9Qfh9rW89txZa/edit?usp=sharing&ouid=102352264123772252738&rtpof=true&sd=true "Modul 08")| [Repository](https://github.com/Ghozi-Waridi/Mobile_Praktikum/tree/main/lib/modul_8 "Repository")|
-|  9 | 05  | -  | StatefulWidget | [Modul 09](https://docs.google.com/document/d/1HbQRRoQ1ddXzBZzS0Sbxg66mA8-Y7G8U/edit?usp=sharing&ouid=102352264123772252738&rtpof=true&sd=true "Modul 09")| [Repository](https://github.com/Ghozi-Waridi/Mobile_Praktikum/tree/main/lib/modul_9 "Repository")|
-|  10 | 06  | -  | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Modul 10](https://docs.google.com/document/d/1erqqSPv9UNx7csi8xZJ-GfNkoLHyvsVf/edit?usp=sharing&ouid=102352264123772252738&rtpof=true&sd=true "Modul 10")| [Repository](https://github.com/Ghozi-Waridi/Mobile_Praktikum/tree/main/lib/modul_10 "Repository")|
-|  11 | 07  | -  | Manajemen State dengan GetX | [Modul 11](https://docs.google.com/document/d/192gElO7DJkv99tjOsOHRChxjBEIDCjQt/edit?usp=sharing&ouid=102352264123772252738&rtpof=true&sd=true "Modul 11")| [Repository](https://github.com/Ghozi-Waridi/Mobile_Praktikum/tree/main/lib/modul_11 "Repository")|
-|  12 | 08  | -  | Ujien Tengah Semester | [Laporan UTS](https://docs.google.com/document/d/10NI_4t77sH-CtQjYVAkfdg0Lp2RW-vEu/edit?usp=sharing&ouid=102352264123772252738&rtpof=true&sd=true "Laporan UTS")| [Repo Project](https:/github.com/Ghozi-Waridi/ "Repo Project")|
-|  13 | 09  | -  | Akses Lokasi dengan GPS di Flutter | [Modul 12](https://docs.google.com/document/d/1xe6W0jev_hdt1M_PKe4kkOzbMVXuLKVG/edit?usp=sharing&ouid=102352264123772252738&rtpof=true&sd=true "Modul 12")| [Repo Project](https://github.com/Ghozi-Waridi/Mobile_Praktikum/tree/main/lib/modul_12 "Repo Project")|
-|  14 | 10  | -  | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API | [Modul 13](https://docs.google.com/document/d/1wMl5tPZ8mAvl40UJqPuZMSYkfZDAwfKZ/edit "Modul 13")| [Repo Project](https://github.com/Ghozi-Waridi/Mobile_Praktikum/tree/main/lib/modul_13 "Repo Project")|
-|  15 | -  | -  | Ujian Akhir Semester | [UAS](https://drive.google.com/file/d/1pMuVJOqBMvDkw9hQmxkLrgyKeRf6_7BJ/view?usp=sharing "UAS")| [Repo Project](https://github.com/Ghozi-Waridi/COACH_Debate "Repo Project")|
-
 
 
 <br>
